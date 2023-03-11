@@ -1,2 +1,0 @@
-# TicTacToe-TheOdinProject
-TicTacToe Game
